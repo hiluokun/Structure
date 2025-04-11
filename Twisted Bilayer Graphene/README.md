@@ -25,4 +25,4 @@
 
 安装依赖：
 ```bash
-pip install numpy ase
+pip install numpy ase 
